@@ -1,3 +1,10 @@
+3.16.0
+======
+
+Bug Fixes
+---------
+* Non-ASCII characters in schema break CQL string generation (PYTHON-1008)
+
 3.15.1
 ======
 September 6, 2018
